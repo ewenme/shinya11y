@@ -9,3 +9,4 @@
 ^webpack\.common\.js$
 ^README\.Rmd$
 ^\.github$
+^LICENSE\.md$

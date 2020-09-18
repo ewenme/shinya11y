@@ -13,8 +13,7 @@ status](https://www.r-pkg.org/badges/version/shinya11y)](https://CRAN.R-project.
 status](https://github.com/ewenme/shinya11y/workflows/R-CMD-check/badge.svg)](https://github.com/ewenme/shinya11y/actions)
 <!-- badges: end -->
 
-Better accessibility (a11y) tooling for
-[shiny](https://shiny.rstudio.com/).
+Accessibility (a11y) tooling for [shiny](https://shiny.rstudio.com/).
 
 ## Installation
 
